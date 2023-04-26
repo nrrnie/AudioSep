@@ -7,8 +7,8 @@ or
 ```py -m pip install -r requirements```
 
 # TO DO:
-- [] TF / Torch model
-- [] Model training
-- [] make stuff work ffs
-- [] ?
-- [] big profit
+- [ ] TF / Torch model
+- [ ] Model training
+- [ ] make stuff work ffs
+- [ ] ?
+- [ ] big profit
