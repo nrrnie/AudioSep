@@ -1,11 +1,10 @@
 pandas
 numpy
-scikit-learn
+librosa
 matplotlib
 scipy
 tensorflow
 keras
 musdb
 museval
-youtube-dl
 stempeg
