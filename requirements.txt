@@ -1,10 +1,12 @@
 pandas
 numpy
-librosa
+scikit-learn
 matplotlib
 scipy
 tensorflow
 keras
 musdb
 museval
+youtube-dl
 stempeg
+ffmpeg-python
